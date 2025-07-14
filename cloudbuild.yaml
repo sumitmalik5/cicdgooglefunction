@@ -7,7 +7,7 @@ steps:
   - function_cicd
   - --region=us-central1
   - --source=.
-  - --trigger-htpp
+  - --trigger-http
   - --runtime=python39
   - --allow-unauthenticated  
 options:
