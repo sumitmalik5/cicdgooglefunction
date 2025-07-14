@@ -10,5 +10,5 @@ steps:
   - --trigger-htpp
   - --runtime=python39
   - --allow-unauthenticated  
-  options:
+options:
   logging : CLOUD_LOGGING_ONLY
