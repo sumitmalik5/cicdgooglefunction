@@ -5,7 +5,7 @@ steps:
       - functions
       - deploy
       - function_cicd
-      - --region=us-central
+      - --region=us-central1
       - --source=.
       - --trigger-htpp
       - --runtime=python39
